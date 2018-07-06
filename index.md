@@ -4,7 +4,7 @@
 
 如果对Clojure语言不熟悉，推荐“ [Clojure for the Brave and True](http://www.braveclojure.com/), [Clojure From the Ground Up](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)”作为入门
 
-1. 测试脚手架
+1. [测试脚手架](01-test scaffolding.md)
 2. 数据库自动化
 3. 编写客户端
 4. 检查正确性
